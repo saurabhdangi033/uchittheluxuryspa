@@ -1,0 +1,17 @@
+.footer {
+  background: #222;
+  color: #ddd;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  font-size: 0.95rem;
+  animation: fadeIn 1s ease-in-out;
+  border-top: 2px solid #444;
+}
+
+.footer p {
+  margin: 0.3rem 0;
+}
+
+.footer p:last-child {
+  color: #e0b3ff;
+}
